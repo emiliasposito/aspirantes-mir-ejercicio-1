@@ -7,7 +7,7 @@ Paso 4: git add
 Paso 5: crar la ssh para que todo lo que haga en git bash, quede en git hub 
 Paso 6: crear el repositorio
 codigos: 
-git commit -n 
+git commit -m 
 gitt add . 
 git init 
 cd
